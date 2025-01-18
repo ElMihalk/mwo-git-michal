@@ -5,11 +5,11 @@ public class SomeProgram {
     }
        
     public void manageRockets() {
-        // TODO implement
+        // TODO
     }
     
     public void manageTheSatellite() {
-    // TODO implement
+    // TODO
 }
 
 }
